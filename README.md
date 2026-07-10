@@ -81,7 +81,7 @@ Restart backend after changing.
 | **Frontend:** React + Redux | ✅ Built (Vite) |
 | **Backend:** Python FastAPI | ✅ Built |
 | **AI Agent:** LangGraph | ✅ Built |
-| **LLM:** Groq / DeepSeek | ✅ Switchable via `USE_GROQ` |
+| **LLMs:** Groq (Llama 3.3), DeepSeek (v4 Flash), OpenAI (GPT-4o), Anthropic (Claude Sonnet), Google (Gemini) | ✅ Switchable via provider config |
 | **Database:** MySQL | ✅ Configured |
 
 ## What's Done
