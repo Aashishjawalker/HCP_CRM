@@ -18,13 +18,13 @@ npm --version
 git --version
 ```
 ## Features 
-
+```
 Can add Log
 Can edit log
 Can summirize log
 Can show upcomming meaetings
 Can use audio files as input to petch data
-
+```
 
 ## Quick Start
 
