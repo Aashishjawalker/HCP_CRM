@@ -27,7 +27,7 @@ git --version
 Can add Log
 Can edit log
 Can summirize log
-Can show upcomming meaetings
+Can show upcomming meetings
 Can use audio files as input to petch data
 ```
 
