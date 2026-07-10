@@ -28,7 +28,7 @@ Can add Log
 Can edit log
 Can summirize log
 Can show upcomming meetings
-Can use audio files as input to petch data
+Can use audio files as input to fetch data
 ```
 
 ## Quick Start
