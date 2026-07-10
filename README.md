@@ -9,6 +9,11 @@
 | **Node.js 18+** | https://nodejs.org (includes npm) |
 | **Git** | https://git-scm.com |
 
+Note:
+```
+This repo comes with the inbuild API keys to save time and can use directly after installing
+```
+
 Verify installs:
 ```powershell
 python --version
@@ -38,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Configure Environment
-Copy your API keys into `backend\.env`:
+Copy your API keys into `backend\.env`: #if you have your own api keys
 ```
 GROQ_API_KEY=gsk_...
 USE_GROQ=false                   # false=DeepSeek, true=Groq
@@ -89,7 +94,7 @@ Restart backend after changing.
 | **Frontend:** React + Redux | ✅ Built (Vite) |
 | **Backend:** Python FastAPI | ✅ Built |
 | **AI Agent:** LangGraph | ✅ Built |
-| **LLMs:** Groq (Llama 3.3), DeepSeek (v4 Flash), OpenAI (GPT-4o), Anthropic (Claude Sonnet), Google (Gemini) | ✅ Switchable via provider config |
+| **LLMs:** Groq (Llama 3.3), DeepSeek (v4 Flash) | ✅ Switchable via provider config |
 | **Database:** MySQL | ✅ Configured |
 
 ## What's Done
